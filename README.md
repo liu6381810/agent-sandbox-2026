@@ -1,2 +1,3 @@
-# agent-sandbox-2026
-Sandbox repository for agent experimentation
+# Agent Sandbox 2026
+
+A fresh sandbox repository for agent experimentation and testing.
